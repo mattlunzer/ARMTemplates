@@ -1,0 +1,51 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "enableBgp": {
+            "value": "GEN-UNIQUE"
+        },
+        "gatewayType": {
+            "value": "GEN-UNIQUE"
+        },
+        "GatewaySKU": {
+            "value": "GEN-UNIQUE"
+        },
+        "vpnType": {
+            "value": "GEN-UNIQUE"
+        },
+        "localGatewayName": {
+            "value": "GEN-UNIQUE"
+        },
+        "localGatewayIpAddress": {
+            "value": "GEN-UNIQUE"
+        },
+        "localGatewayAddressPrefix": {
+            "value": "GEN-UNIQUE"
+        },
+        "virtualNetworkName": {
+            "value": "GEN-UNIQUE"
+        },
+        "addressPrefix": {
+            "value": "GEN-UNIQUE"
+        },
+        "subnet1Name": {
+            "value": "GEN-UNIQUE"
+        },
+        "gatewaySubnet": {
+            "value": "GatewaySubnet"
+        },
+        "subnet1Prefix": {
+            "value": "GEN-UNIQUE"
+        },
+        "gatewaySubnetPrefix": {
+            "value": "GEN-UNIQUE"
+        },
+        "gatewayPublicIPName": {
+            "value": "GEN-UNIQUE"
+        },
+        "gatewayName": {
+            "value": "vpngateway"
+        }
+    }
+}
