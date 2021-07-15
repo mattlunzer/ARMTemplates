@@ -1,1 +1,1 @@
-[![Deploy to Azure]https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmattlunzer%2FARMTemplates%2Fmain%2Fazure-network-site-to-site-bgp%2Fazuredeploy.json
+[![Deploy to Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmattlunzer%2FARMTemplates%2Fmain%2Fazure-network-site-to-site-bgp%2Fazuredeploy.json)
